@@ -35,7 +35,7 @@
     "@actions/tool-cache": "^1.6.1",
     "graphql": "^15.4.0",
     "graphql-request": "^3.4.0",
-    "runtypes": "^5.0.1"
+    "runtypes": "^6.6.0"
   },
   "devDependencies": {
     "@vercel/ncc": "^0.26.1",
